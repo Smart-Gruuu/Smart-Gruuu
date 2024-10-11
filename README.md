@@ -3,10 +3,20 @@
 </div>  
   
 
-### <div align="center">I'm Gruuu, a senior full-stack developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">Hi! I'm Gruuu, working remotely since 2018 🚀</div>  
   
 
 <br/>  
+
+**About me**
+
+- 💼 Senior Full-Stack Developer👨‍💻
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+
 
 
 ## My Skill Set  
@@ -74,9 +84,7 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Smart-Gruuu&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+| <a href="https://github.com/Smart-Gruuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Smart-Gruuu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Smart-Gruuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smart-Gruuu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ----
