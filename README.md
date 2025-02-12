@@ -83,8 +83,9 @@
 
 <br/>  
 
-
+<!--
 | <a href="https://github.com/Smart-Gruuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Smart-Gruuu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Smart-Gruuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smart-Gruuu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ----
+-->
