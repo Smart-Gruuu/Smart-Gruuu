@@ -1,91 +1,153 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Taylor Young - Senior Java Full Stack Developer
 
-### <div align="center">Hi! I'm Gruuu, working remotely since 2018 🚀</div>  
-  
+**Location**: Inverness, FL 34452  
+**Contact**: +1 (352) 634-6333 • talor.y419@gmail.com  
+**LinkedIn**: [Taylor Young](https://linkedin.com/in/taylor-young-486419362)
 
-<br/>  
+---
 
-**About me**
+## Summary
 
-- 💼 Senior Full-Stack Developer👨‍💻
+Senior Java Full Stack Developer with **13+ years of experience** specializing in Java, Spring Boot, and React. Expert in developing scalable backend systems, responsive front-end solutions, and optimizing cloud infrastructures. Proven track record across multiple industries including healthcare, financial services, e-commerce, and travel, focusing on improving user engagement, operational efficiency, and system performance.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+---
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+## Skills
 
+### Backend Technologies
+- **Languages**: Java, Spring Boot, Python, RUST, Hibernate, JDBC  
+- **APIs**: RESTful, SOAP, Microservices  
+- **Tools**: Maven, Gradle, JUnit, Mockito, Apache Kafka, Apache Camel, Git, Jenkins, Docker, Kubernetes  
+- **Databases**: MySQL, PostgreSQL, Oracle, Redis  
+- **Cloud**: AWS (EC2, S3, RDS), Nginx  
+- **Others**: Elasticsearch, Salesforce  
 
+### Frontend Technologies
+- **Languages/Frameworks**: React, Angular, JavaScript, HTML5, CSS3, Bootstrap, jQuery, JSP  
+- **Data Formats**: JSON, XML
 
+### Cloud & DevOps
+- **Cloud**: AWS, Docker, Kubernetes  
+- **CI/CD**: Jenkins, GitHub
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+### Security & Authentication
+- **Tech**: OAuth2, JWT, Spring Security  
+- **Compliance**: HIPAA
 
+### Testing & Automation
+- **Tools**: JUnit, Mockito, Selenium  
+- **Processes**: Automated Testing, CI/CD Pipelines
 
+### Databases & Data Management
+- **Databases**: MySQL, PostgreSQL, Oracle, Redis
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-</div>
+### Other Technologies
+- **Tools**: Maven, Gradle, Apache Tomcat
 
-</td><td valign="top" width="33%">
+---
 
+## Work Experience
 
+### Senior Java Full Stack Developer  
+**Capital Health Plan** — Tallahassee, FL (Remote)  
+*August 2021 - Present*
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
-<a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
+- Led the development of the **CHPConnect** member portal, improving claim tracking, provider search, and benefits overview.
+- Reduced system load times by **30%** and improved user engagement by **40%**.
+- Developed secure and scalable features for provider search, claims access, and digital ID cards.
+- Optimized platform migration to cloud infrastructure, achieving **99.9% uptime**.
+- Enhanced **security** to ensure **HIPAA compliance**, reducing vulnerabilities by **25%**.
 
-</td><td valign="top" width="33%">
+**Technologies**: Java, Spring Boot, React, Python, RUST, MySQL, PostgreSQL, AWS, Jenkins, Docker, Kubernetes, Redis, Elasticsearch, GitHub
 
+---
 
+### Java Full Stack Developer  
+**First Command Financial Services** — Fort Worth, TX (Remote)  
+*April 2018 - August 2021*
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+- Enhanced the **CRM system**, optimizing workflows and integrating with **Salesforce** to improve data access.
+- Increased **client satisfaction** by **10%** through improved user interfaces and backend efficiency.
+- Developed automated testing frameworks, reducing bugs by **30%** and improving development speed by **25%**.
 
-</td></tr></table>  
+**Technologies**: Java, Spring Boot, Angular, Salesforce, RESTful APIs, Jenkins, Docker, AWS, SQL, MySQL
 
-<br/>  
-  
+---
 
-<br/>  
+### Senior Full Stack Developer  
+**Affirm** — San Francisco, CA  
+*April 2015 - April 2018*
 
-<!--
-| <a href="https://github.com/Smart-Gruuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Smart-Gruuu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Smart-Gruuu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smart-Gruuu&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+- Contributed to Affirm's **BNPL (Buy Now Pay Later)** platform by optimizing backend systems and loan processing workflows.
+- Increased system throughput and reduced response times by **40%**.
+- Implemented **CI/CD** pipelines, reducing release cycles from **two weeks** to **three days**.
 
-----
--->
+**Technologies**: Java, Spring Boot, React, REST APIs, OAuth2, JWT, AWS, Docker, Jenkins
+
+---
+
+### Mid-Level Java Developer  
+**SAP Concur** — Dallas, TX  
+*January 2014 - April 2015*
+
+- Developed backend modules for **Travel Management System**, improving booking efficiency by **25%**.
+- Integrated **travel policy enforcement** logic, reducing non-compliant bookings by **30%**.
+
+**Technologies**: Java, Spring, Hibernate, JDBC, REST, XML, JUnit, Oracle
+
+---
+
+### Java Full Stack Developer  
+**GDSX** — Allen, TX  
+*June 2012 - January 2014*
+
+- Enhanced mid-office **travel automation features**, improving automation throughput by **25%**.
+- Integrated **GDS and non-GDS booking APIs**, and contributed to **performance tuning**, reducing latency by **30%**.
+
+**Technologies**: Java EE, SOAP, XML, Hibernate, MySQL, Apache Kafka
+
+---
+
+### Junior Front End Developer  
+**Sogeti** — San Francisco, CA  
+*February 2011 - June 2012*
+
+- Developed front-end interfaces for the **Industry 4.0 Research project**, enhancing real-time data visualization for smart factories.
+
+**Technologies**: Java, Spring MVC, RESTful APIs, MySQL, HTML5, CSS3, JavaScript
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science**  
+**Miami University** — Oxford, OH  
+*2007 - 2010*
+
+---
+
+## Certifications & Achievements
+
+- **AWS Certified Solutions Architect**  
+- **Spring Professional Certification**  
+- **Jenkins Certified Engineer**
+---
+
+## Contact & Socials
+
+- **Phone**: +1 (352) 634-6333
+- **Email**: talor.y419@gmail.com
+- **LinkedIn**: [Taylor Young](https://linkedin.com/in/taylor-young-486419362)
+
+---
+
+## Projects
+
+### CHPConnect - Member Portal  
+A platform that improves user engagement by offering claim tracking, provider search, and benefits overview.
+
+- **Technologies**: Java, Spring Boot, React, MySQL, PostgreSQL, AWS, Jenkins
+
+---
+
+This README gives a clean, concise overview of your experience and expertise. If you need further adjustments or additions, feel free to let me know!
