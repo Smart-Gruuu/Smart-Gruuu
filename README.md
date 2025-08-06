@@ -23,8 +23,7 @@ Senior Java Full Stack Developer with **13+ years of experience** specializing i
 - **Others**: Elasticsearch, Salesforce  
 
 ### Frontend Technologies
-- **Languages/Frameworks**: React, Angular, JavaScript, HTML5, CSS3, Bootstrap, jQuery, JSP  
-- **Data Formats**: JSON, XML
+- **Languages/Frameworks**: React, Angular, JavaScript, HTML5, CSS3, Bootstrap, jQuery, JSP
 
 ### Cloud & DevOps
 - **Cloud**: AWS, Docker, Kubernetes  
@@ -37,12 +36,6 @@ Senior Java Full Stack Developer with **13+ years of experience** specializing i
 ### Testing & Automation
 - **Tools**: JUnit, Mockito, Selenium  
 - **Processes**: Automated Testing, CI/CD Pipelines
-
-### Databases & Data Management
-- **Databases**: MySQL, PostgreSQL, Oracle, Redis
-
-### Other Technologies
-- **Tools**: Maven, Gradle, Apache Tomcat
 
 ---
 
@@ -149,5 +142,3 @@ A platform that improves user engagement by offering claim tracking, provider se
 - **Technologies**: Java, Spring Boot, React, MySQL, PostgreSQL, AWS, Jenkins
 
 ---
-
-This README gives a clean, concise overview of your experience and expertise. If you need further adjustments or additions, feel free to let me know!
