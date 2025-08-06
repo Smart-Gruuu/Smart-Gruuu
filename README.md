@@ -1,8 +1,4 @@
-# Taylor Young - Senior Java Full Stack Developer
-
-**Location**: Inverness, FL 34452  
-**Contact**: +1 (352) 634-6333 • talor.y419@gmail.com  
-**LinkedIn**: [Taylor Young](https://linkedin.com/in/taylor-young-486419362)
+# Senior Java Full Stack Developer
 
 ---
 
@@ -15,7 +11,7 @@ Senior Java Full Stack Developer with **13+ years of experience** specializing i
 ## Skills
 
 ### Backend Technologies
-- **Languages**: Java, Spring Boot, Python, RUST, Hibernate, JDBC  
+- **Languages**: Java, Spring Boot, Python, RUST, Hibernate, JDBC
 - **APIs**: RESTful, SOAP, Microservices  
 - **Tools**: Maven, Gradle, JUnit, Mockito, Apache Kafka, Apache Camel, Git, Jenkins, Docker, Kubernetes  
 - **Databases**: MySQL, PostgreSQL, Oracle, Redis  
@@ -39,83 +35,22 @@ Senior Java Full Stack Developer with **13+ years of experience** specializing i
 
 ---
 
-## Work Experience
+## Key Projects
 
-### Senior Java Full Stack Developer  
-**Capital Health Plan** — Tallahassee, FL (Remote)  
-*August 2021 - Present*
+### CHPConnect - Member Portal
+Led the development of **CHPConnect**, a member portal that enhanced user engagement and reduced support tickets by **20%**. Integrated scalable features such as claims tracking, provider search, and digital ID cards, resulting in a **30% reduction in load times** and **40% higher user retention**.
 
-- Led the development of the **CHPConnect** member portal, improving claim tracking, provider search, and benefits overview.
-- Reduced system load times by **30%** and improved user engagement by **40%**.
-- Developed secure and scalable features for provider search, claims access, and digital ID cards.
-- Optimized platform migration to cloud infrastructure, achieving **99.9% uptime**.
-- Enhanced **security** to ensure **HIPAA compliance**, reducing vulnerabilities by **25%**.
+**Technologies**: Java, Spring Boot, React, Python, MySQL, PostgreSQL, AWS, Docker, Kubernetes
 
-**Technologies**: Java, Spring Boot, React, Python, RUST, MySQL, PostgreSQL, AWS, Jenkins, Docker, Kubernetes, Redis, Elasticsearch, GitHub
+### CRM System Enhancement
+Improved the **CRM system** for a financial services firm by integrating **Salesforce** and automating key workflows. Optimized backend performance, leading to a **20% increase in operational efficiency** and a **10% boost in client satisfaction**.
 
----
+**Technologies**: Java, Spring Boot, Angular, Salesforce, MySQL, Jenkins
 
-### Java Full Stack Developer  
-**First Command Financial Services** — Fort Worth, TX (Remote)  
-*April 2018 - August 2021*
+### BNPL Platform Scalability
+Played a key role in scaling a **Buy Now Pay Later (BNPL)** platform, enhancing backend reliability and processing speeds. Optimized database access and reduced response time by **40%**, enabling increased transaction volume and better user experience.
 
-- Enhanced the **CRM system**, optimizing workflows and integrating with **Salesforce** to improve data access.
-- Increased **client satisfaction** by **10%** through improved user interfaces and backend efficiency.
-- Developed automated testing frameworks, reducing bugs by **30%** and improving development speed by **25%**.
-
-**Technologies**: Java, Spring Boot, Angular, Salesforce, RESTful APIs, Jenkins, Docker, AWS, SQL, MySQL
-
----
-
-### Senior Full Stack Developer  
-**Affirm** — San Francisco, CA  
-*April 2015 - April 2018*
-
-- Contributed to Affirm's **BNPL (Buy Now Pay Later)** platform by optimizing backend systems and loan processing workflows.
-- Increased system throughput and reduced response times by **40%**.
-- Implemented **CI/CD** pipelines, reducing release cycles from **two weeks** to **three days**.
-
-**Technologies**: Java, Spring Boot, React, REST APIs, OAuth2, JWT, AWS, Docker, Jenkins
-
----
-
-### Mid-Level Java Developer  
-**SAP Concur** — Dallas, TX  
-*January 2014 - April 2015*
-
-- Developed backend modules for **Travel Management System**, improving booking efficiency by **25%**.
-- Integrated **travel policy enforcement** logic, reducing non-compliant bookings by **30%**.
-
-**Technologies**: Java, Spring, Hibernate, JDBC, REST, XML, JUnit, Oracle
-
----
-
-### Java Full Stack Developer  
-**GDSX** — Allen, TX  
-*June 2012 - January 2014*
-
-- Enhanced mid-office **travel automation features**, improving automation throughput by **25%**.
-- Integrated **GDS and non-GDS booking APIs**, and contributed to **performance tuning**, reducing latency by **30%**.
-
-**Technologies**: Java EE, SOAP, XML, Hibernate, MySQL, Apache Kafka
-
----
-
-### Junior Front End Developer  
-**Sogeti** — San Francisco, CA  
-*February 2011 - June 2012*
-
-- Developed front-end interfaces for the **Industry 4.0 Research project**, enhancing real-time data visualization for smart factories.
-
-**Technologies**: Java, Spring MVC, RESTful APIs, MySQL, HTML5, CSS3, JavaScript
-
----
-
-## Education
-
-**Bachelor of Science in Computer Science**  
-**Miami University** — Oxford, OH  
-*2007 - 2010*
+**Technologies**: Java, Spring Boot, React, AWS, Docker, Jenkins
 
 ---
 
@@ -124,21 +59,4 @@ Senior Java Full Stack Developer with **13+ years of experience** specializing i
 - **AWS Certified Solutions Architect**  
 - **Spring Professional Certification**  
 - **Jenkins Certified Engineer**
----
-
-## Contact & Socials
-
-- **Phone**: +1 (352) 634-6333
-- **Email**: talor.y419@gmail.com
-- **LinkedIn**: [Taylor Young](https://linkedin.com/in/taylor-young-486419362)
-
----
-
-## Projects
-
-### CHPConnect - Member Portal  
-A platform that improves user engagement by offering claim tracking, provider search, and benefits overview.
-
-- **Technologies**: Java, Spring Boot, React, MySQL, PostgreSQL, AWS, Jenkins
-
 ---
